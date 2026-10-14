@@ -1,6 +1,6 @@
 # HR Employee Survey Responses (Power BI)
 
-> 🌐 Part of my data analytics portfolio: [YOUR-PORTFOLIO-URL](https://YOUR-PORTFOLIO-URL/projects/hr-employee-survey) · 👤 [More projects on my GitHub](https://github.com/mazenabushama0-arch)
+> 🌐 Part of my data analytics portfolio:[My-PORTFOLIO](https://mazenabushama0-arch.github.io/Portfolio/) · 👤 [More projects on my GitHub](https://github.com/mazenabushama0-arch)
 
 A 7-page Power BI report analyzing employee survey responses by department, role, and question, covering both participation (completion) and sentiment (average response).
 
